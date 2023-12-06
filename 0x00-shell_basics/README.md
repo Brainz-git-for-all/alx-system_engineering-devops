@@ -1,0 +1,1 @@
+The readme of first shell project
